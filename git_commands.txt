@@ -1,5 +1,5 @@
 git clone https://github.com/MOAZHAR123/Quiz_week_8.git
 cd Quiz_week_8
-git add climate_q1.py 
 git commit -m "Added code to fetch data from the database"  
 git push origin main
+git log > git_log.txt
